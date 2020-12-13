@@ -1,7 +1,7 @@
 body {
   font-family: Roboto,Arial,sans-serif;
   font-weight: 300;
-  background-color: #f6f6f6;
+  background-color: white;
 }
 
 p {
@@ -117,7 +117,7 @@ section.card {
 }
 
 .right-content {
-  width: 64%;
+  width: 100%;
   margin-right: 15px;
   float: right;
 }
@@ -128,9 +128,6 @@ section.card {
   text-transform: uppercase;
 }
 
-.right-content {
-  border-left: 1px dashed #CFCFCF;
-}
 
 .section-content {
   overflow: auto;
